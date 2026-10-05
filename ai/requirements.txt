@@ -1,0 +1,9 @@
+tensorflow==2.21.0
+numpy
+pillow
+opencv-python
+fastapi
+uvicorn
+python-multipart
+scikit-learn
+matplotlib
